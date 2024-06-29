@@ -34,6 +34,26 @@ Charismatic Lead Automation Engineer with a reputation for elevating quality sta
 
 <br/>
 
+<h2 align="left">🌟 Areas of Expertise 🌟</h2>
+
+<div align="left">
+  
+  - 🚀 **Automation Frameworks**
+  - 🤖 **Test Automation**
+  - 🧪 **Testing**
+  - 🌍 **Global Cross-functional Team Leadership**
+  - ✅ **Quality Assurance**
+  - ☁️ **Cloud Computing**
+  - 🔄 **Continuous Integration/Deployment**
+  - 📋 **Test Management**
+  - 🖥️ **Server Environments**
+  - 🛡️ **Release Certification**
+  - 📝 **Test Strategy and Planning**
+  - ⚙️ **Performance Testing**
+  - 📊 **Quality Metrics and Reporting**
+    
+</div>
+
 <h2 align="left">📊 GitHub Stats 📊</h2>
 
 ![Anil Rokkala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rokkys&show_icons=true&theme=radical)
