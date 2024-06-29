@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anil Rokkala
 
-<h3 align="left">Lead Automation Engineer | Quality Advocate | Technology Enthusiast</h3>
+<h3 align="left">Lead Automation Engineer | Senior Manager QA | Aspiring VP/Director</h3>
 
 <div align="left">
   <a href="mailto:anilrokkala@gmail.com" target="_blank">
@@ -31,7 +31,7 @@ Charismatic Lead Automation Engineer with a reputation for elevating quality sta
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,python,ruby,javascript,selenium,github,aws,azure,docker,kubernetes,mysql,oracle,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,ruby,javascript,selenium,github,aws,azure,docker,kubernetes,mysql,mongodb" /><br>
 </div>
 
 <br/>
