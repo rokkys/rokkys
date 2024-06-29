@@ -15,8 +15,6 @@
 
 Charismatic Lead Automation Engineer with a reputation for elevating quality standards in complex software ecosystems. Unique background that bridges strategic leadership and global talent development to achieve amazing outcomes in rapidly evolving software landscapes.
 
-<br>
-
 <div align="left">
  
  🔭 I’m currently working on **Advanced Automation Frameworks**
