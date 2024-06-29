@@ -19,7 +19,7 @@ Charismatic Lead Automation Engineer with a reputation for elevating quality sta
  
  🔭 I’m currently working on **Advanced Automation Frameworks**
  
- 🔭 Recently completed Python, Panda based automation framework to validate snowflakes data migration project. Other technologies used are jenkins, maven, Dockers, Pods and openshift. 
+ 🔭 Recently developed Python and Pandas based automation framework to validate snowflakes data migration project which validated 500 Million transaction records data. Other technologies used in this project are jenkins, maven, Dockers, Pods and openshift. 
  
  🌱 I’m currently learning more about **Cloud Computing and Big Data**
 
